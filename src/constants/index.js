@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Android Developer",
     icon: mobile,
   },
   {
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "AI Engineer",
     icon: creator,
   },
 ];
@@ -117,10 +117,11 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    company_name: "CodeWithTechries",
+    icon: backend,
+    // icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "September 2024 - January 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,9 +130,11 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Android Developer",
+    company_name: "Freelance",
+    // icon: tesla,
+    icon: backend,
+
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -142,11 +145,13 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Web Developer Intern",
+    company_name: "Dabotics India Limited",
+    // icon: shopify,
+    icon: backend,
+
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2025 - Jan 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -156,8 +161,10 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    company_name: "Freelance",
+    // icon: meta,
+    icon: backend,
+
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
